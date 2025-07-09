@@ -70,31 +70,6 @@ CatBoost showed the best performance, indicating strong predictive capabilities 
 
 ---
 
-### 4️⃣ Feature Importances
-
-![Feature Importances](images/feature_importances.png)
-
----
-
-## 🚀 How to Run
-
-1️⃣ Clone this repository:
-```bash
-git clone https://github.com/yourusername/life-expectancy-prediction.git
-cd life-expectancy-prediction
-````
-
-2️⃣ Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ Run the notebook:
-Open `life_expectancy_prediction.ipynb` in Jupyter or VS Code and run all cells.
-
----
-
 ## 💡 Next Improvements
 
 * Add **hyperparameter tuning** using GridSearchCV.
@@ -103,25 +78,13 @@ Open `life_expectancy_prediction.ipynb` in Jupyter or VS Code and run all cells.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome to add more models, improve tuning, or enhance visualizations. Feel free to fork and submit a PR.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 📬 Contact
 
 For questions or collaborations:
 
 * **Name:** Basil Rehan
-* **Email:** [your.email@domain.com](mailto:your.email@domain.com)
-* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+* **Email:** [your.email@domain.com](mailto:basilsiddiqui17@gmail.com)
+* **LinkedIn:** [Your LinkedIn](https://[www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/brs6))
 
 ---
 
