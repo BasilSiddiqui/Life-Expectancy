@@ -54,7 +54,7 @@ CatBoost showed the best performance, indicating strong predictive capabilities 
 
 ### 1️⃣ Global Life Expectancy Comparision
 
-![GlobalLifeExpectancy](images/GlobalLifeExpectancy.png)
+![GlobalLifeExpectancy](images/GlobalLife.png)
 
 ---
 
