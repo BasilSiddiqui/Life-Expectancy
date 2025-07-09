@@ -60,7 +60,7 @@ CatBoost showed the best performance, indicating strong predictive capabilities 
 
 ### 2️⃣ Variable Correlations
 
-![Corr](images/corr.png)
+![Corr](images/Corr.png)
 
 ---
 
