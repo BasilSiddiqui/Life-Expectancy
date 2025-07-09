@@ -83,11 +83,9 @@ CatBoost showed the best performance, indicating strong predictive capabilities 
 For questions or collaborations:
 
 * **Name:** Basil Rehan
-* **Email:** [your.email@domain.com](mailto:basilsiddiqui17@gmail.com)
-* **LinkedIn:** [Your LinkedIn](https://[www.linkedin.com/in/yourprofile](http://www.linkedin.com/in/brs6))
+* **Email:** [basilsiddiqui17@gmail.com](mailto:basilsiddiqui17@gmail.com)
+* **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/brs6)
 
 ---
 
 🩺 **Empowering data-driven healthcare decisions, one prediction at a time.**
-
-````
